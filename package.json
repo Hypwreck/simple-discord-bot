@@ -1,0 +1,29 @@
+{
+  "name": "simple-bot-djsv14",
+  "version": "1.0.0",
+  "description": "Simple Discord Bot in Djsv14 with Ping Command.",
+  "main": "index.js",
+  "scripts": {
+    "test": ".ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hypwreck/simple-discord-bot.git"
+  },
+  "keywords": [
+    "SimpleDiscordBot",
+    "djsv14",
+    "ping",
+    "Discord.js",
+    "hypwreck"
+  ],
+  "author": "hypwreck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hypwreck/simple-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Hypwreck/simple-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  }
+}
